@@ -7,5 +7,10 @@ print('You can add' +  'strings to eachother')
 name = input('Please enter your name here')
 greeting = 'oh hellow, '
 
-
 print(name +' '+ greeting) 
+
+age = 24
+Greeting = 'Hello'
+print(type(age))
+print(type(Greeting))
+
