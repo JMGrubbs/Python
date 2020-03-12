@@ -19,3 +19,6 @@ while dr != finish:
     print('Wrong direction, try again.')
   else:
     print('You\'re out!')
+
+  # .sort() doesnt return a new object or veriable. Modifies the original.
+  # .append() adds to the end of an array
